@@ -25,21 +25,18 @@ Taskmaster is a desktop to-do list application built using Python and Tkinter. I
 
 - Clone the Repository
 ```
-bash
 git clone https://github.com/iraqooh/taskmaster-python-tkinter.git
 cd taskmaster-python-tkinter
 ```
 
 - Create a Virtual Environment
 ```
-bash
 python3 -m venv venv
 source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 ```
 
 - Install Dependencies
 ```
-bash
 pip install -r requirements.txt
 ```
 
@@ -74,7 +71,6 @@ Customize application settings via the "Settings" option in the "Task" menu.
 
 To run unit tests, ensure that you are in the virtual environment and execute:
 ```
-bash
 python -m unittest discover tests
 ```
 
