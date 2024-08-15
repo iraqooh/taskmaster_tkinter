@@ -25,8 +25,8 @@ Taskmaster is a desktop to-do list application built using Python and Tkinter. I
 
 - Clone the Repository
 ```
-git clone https://github.com/iraqooh/taskmaster-python-tkinter.git
-cd taskmaster-python-tkinter
+git clone https://github.com/iraqooh/taskmaster_tkinter.git
+cd taskmaster_tkinter
 ```
 
 - Create a Virtual Environment
